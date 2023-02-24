@@ -1,3 +1,5 @@
+Fork do script do https://github.com/maxhq . Foram feitas algumas alterações para que funcionasse corretamente com o postgresql!
+
 Baixe os arquivos 
 
 # wget https://raw.githubusercontent.com/joandson19/zabbix-backup/main/zabbix-dump -O /etc/backups/zabbix-dump
