@@ -1,8 +1,8 @@
 Baixe os arquivos 
 
-# wget https://raw.githubusercontent.com/joandson19/zabbix-backup/zabbix-dump -O /etc/backups/zabbix-dump
-# wget https://raw.githubusercontent.com/joandson19/zabbix-backup/backup_zbx.sh -O /etc/backups/backup_zbx.sh
-# wget https://raw.githubusercontent.com/joandson19/zabbix-backup/telegram -O /bin/telegram
+# wget https://raw.githubusercontent.com/joandson19/zabbix-backup/main/zabbix-dump -O /etc/backups/zabbix-dump
+# wget https://raw.githubusercontent.com/joandson19/zabbix-backup/main/backup_zbx.sh -O /etc/backups/backup_zbx.sh
+# wget https://raw.githubusercontent.com/joandson19/zabbix-backup/main/telegram -O /bin/telegram
 
 Aplique as permissões de execução
 
